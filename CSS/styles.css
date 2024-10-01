@@ -9,3 +9,12 @@ h1 {
 p {
     color: blue;
 }
+
+#titulo-app {
+    color: purple;
+    font-size: 2em;
+}
+
+.p-texto {
+    color: green;
+}
