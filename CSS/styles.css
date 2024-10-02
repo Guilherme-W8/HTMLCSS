@@ -18,3 +18,19 @@ p {
 .p-texto {
     color: green;
 }
+
+/*
+    Add colors
+*/
+
+.colorName {
+    color: blue;
+}
+
+.hexaCodeColor {
+    color: #6bfff8;
+}
+
+.rgba {
+    color: rgba(54, 144, 255, 1);
+}
