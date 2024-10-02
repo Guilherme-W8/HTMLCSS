@@ -50,3 +50,24 @@ p {
     background-color: #000;
     color: #fff;
 }
+
+/*
+    Fonts
+*/
+
+.family {
+    color: #000;
+    font-size: 40px;
+}
+
+.serif {
+    font-family: "times new roman";
+} 
+
+.sans-serif {
+    font-family: arial;
+}
+
+.monospace {
+    font-family: "Courier new";
+}
