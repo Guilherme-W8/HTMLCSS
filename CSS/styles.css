@@ -71,3 +71,20 @@ p {
 .monospace {
     font-family: "Courier new";
 }
+
+/* Box Model */
+
+body {
+    margin: 0;
+}
+
+.p-box {
+    margin: 0;
+}
+
+.boxmodel {
+    width: 200px;
+    height: 200px;
+    background-color: #dfdfdf;
+    padding: 20px;
+}
