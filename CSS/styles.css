@@ -34,3 +34,19 @@ p {
 .rgba {
     color: rgba(54, 144, 255, 1);
 }
+
+/*
+    Background div
+*/
+
+.div-background {
+    background-image: url('../assets/soc.png');
+    height: 300px;
+    width: 430px;
+}
+
+.title-background {
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+}
